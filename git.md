@@ -1,5 +1,7 @@
 ##GIT
+
 ###Descripción de git
+
 Es un sistema de control de versiones que sirve para gestionar las ediciones de un producto.
 
 - No sólo vale para software ( documentos, fotografías, ... )
