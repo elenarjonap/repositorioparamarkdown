@@ -1,6 +1,6 @@
-##GIT
+## GIT
 
-###Descripción de git
+### Descripción de git
 
 Es un sistema de control de versiones que sirve para gestionar las ediciones de un producto.
 
